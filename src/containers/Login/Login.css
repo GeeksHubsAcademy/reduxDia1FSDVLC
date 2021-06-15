@@ -1,0 +1,14 @@
+
+.vistaLogin {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+}
+
+.botonLogeame {
+    width: 5em;
+    height: 2.5em;
+    background-color: crimson;
+    color:white;
+}
